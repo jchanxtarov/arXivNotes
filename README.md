@@ -5,7 +5,7 @@ repository to research &amp; memo about the machine learning articles
 
 THE CONTENTS OF THIS REPOSITRY ARE WRITTEN IN ENGLISH & JAPANESE.
 
-## Template
+## How to note?
 ```markdown
 # Standard Information
 - Authors: 
