@@ -23,4 +23,4 @@ THE CONTENTS OF THIS REPOSITRY ARE WRITTEN IN ENGLISH & JAPANESE.
 # Reference (for understanding)
 ```
 
-![image](https://user-images.githubusercontent.com/41275034/133532675-e105534a-c21a-4beb-aa5f-22492f1dd233.png)
+![image](https://user-images.githubusercontent.com/41275034/133532771-e7b69bd6-1ff3-400b-befd-87736b154151.png)
