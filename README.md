@@ -7,7 +7,7 @@ THE CONTENTS OF THIS REPOSITRY ARE WRITTEN IN ENGLISH & JAPANESE.
 
 ## How to note?
 ```markdown
-# Standard Information
+# Information
 - Authors: 
 - Date: 
 - Published By: 
